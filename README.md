@@ -1,5 +1,5 @@
 # Maishaweb.com
-<!DOCTYPE html/>
+<!DOCTYPE html>
 <html>
 <Body>
 <h1 style=“Backgroud-color:Black; color: White”>Maishaaa Robert</h1>
