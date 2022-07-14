@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:Black;color:white;padding:10px">
+The Turning up of Life</h1>
+<a href="MashWeb.html">News</a> <a href="mash.html">Gallery</a> <a href="mash.html">Contract</a>
+
+<div style="background-color:lightgray;color:black;padding:10px">
+<h1> The Paradise</h1>
+<div style="background-color:White;color:Black">
+<p>
+Maisha Robert Mokubedi the 19 year old boy has been the industry's 
+ standard dummy text ever since the 1500s,when an unknown printer took a gallery of type and scrambled it to make a
+ type specimen book.It has survived not only five centuries,but also the leap into electronic typesetting,remaining
+ essentially unchanged.It popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+ and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum Web content 
+ is dominated by the "page"cocept,its beginnings in an academic setting and in asetting dominated by type-written pages</p>
+ <br>
+ <select>
+ <option>select</option> <option> Mash999</option> <option>MashTh3Beatz</option>
+ </select>
+ <br>
+ 
+ <style>
+ textarea {width:50%;
+ length:50%;size;padding:30px }
+ </style>
+ <textarea>Enter your identification details</textarea>
+ <br>
+ 
+ Name<input type="name"><br>
+ Surname<input type="surname"><br>
+ GOSPEL <label><input type="checkbox"></label>
+  HIP HOP<label><input type="checkbox"></label>
+  <br>
+  
+  <table border>
+  <tr>
+  <th>Name</th> <th>Surname</th> <th>Age</th>
+  </tr>
+  <tr>
+  <td>Maisha</td> <td>Mokubedi</td> <td>20</td>
+  </tr>
+  <tr>
+  <td>Robert</td> <td>Mokubedi</td> <td>20</td>
+   
+  
+ 
+</div></div>
+</body>
+</html>
